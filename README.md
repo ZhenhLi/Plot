@@ -1,11 +1,12 @@
-# Plot
+Plot
+-------
 just show some picture by python
 
-# context
+## context
 
-## scatter
-## scatter_3D
-## bar
-## pie
+### scatter
+### scatter_3D
+### bar
+### pie
 
 
